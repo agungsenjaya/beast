@@ -51,6 +51,10 @@ a {
 .nav-top > li > a {
   color: #000;
 }
+.grad-1 {
+  background: linear-gradient(254deg,#d30c02 5%,#8d110b);
+  box-shadow: 4px 2px 8px rgb(211 12 2 / 25%), 2px 4px 8px rgb(141 17 11 / 25%);
+}
 .btn-grad-1 {
   background: linear-gradient(254deg,#d30c02 5%,#8d110b);
   transition: background 0.2s ease 0s, opacity 0.2s ease 0s;
@@ -94,7 +98,7 @@ a {
   font-size: 17px !important;
 }
 .nav-res {
-  line-height: 2.5;
+  line-height: 3;
   /* font-weight: 600; */
 }
 .nav-res > a {
@@ -211,7 +215,7 @@ p {
 }
 
 .bg-gray {
-  background-color: #e7e7e7;
+  background-color: #f8f8f8;
   color: #1c2434 !important;
 }
 .badge {
@@ -221,4 +225,48 @@ p {
 .card-img-top {
   border-top-left-radius: 0.700em !important;
   border-top-right-radius: 0.700em !important;
+}
+.sidebar {
+  position: fixed;
+  top: 30px;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  padding: 48px 0 0;
+  box-shadow: inset -1px 0 0 rgb(0 0 0 / 10%);
+}
+.list-road {
+  line-height: 2;
+}
+.list-road > li {
+  background: transparent;
+  color: #fff;
+}
+.to-center {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.icon-1 {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIwLjAyNzIgMjkuMzMzM0wyMCAyNC44OTA3QzIwIDIzLjgyOTggMTkuNTc4NiAyMi44MTI0IDE4LjgyODQgMjIuMDYyM0MxOC4wNzgzIDIxLjMxMjEgMTcuMDYwOSAyMC44OTA3IDE2IDIwLjg5MDdDMTQuOTM5MSAyMC44OTA3IDEzLjkyMTcgMjEuMzEyMSAxMy4xNzE2IDIyLjA2MjNDMTIuNDIxNCAyMi44MTI0IDEyIDIzLjgyOTggMTIgMjQuODkwN1YyOS4zMzMzSDExLjY1MTdDNy4zMzMzNCAyOS4zMzMzIDMuMjYzMjEgMjYuNDE5NyAzLjAzOTgyIDIxLjkxODZMMi42NjY2NyAxNC40QzIuNjY2NjcgMTMuOTM5NSAyLjc4NTkxIDEzLjQ4NjkgMy4wMTI4IDEzLjA4NjJDMy4yMzk2OCAxMi42ODU0IDMuNTY2NDcgMTIuMzUwMyAzLjk2MTM0IDEyLjExMzRMMTQuNjI4IDMuMDQ2NjlDMTUuMDQyNCAyLjc5ODAyIDE1LjUxNjcgMi42NjY2NyAxNiAyLjY2NjY3QzE2LjQ4MzMgMi42NjY2NyAxNi45NTc2IDIuNzk4MDIgMTcuMzcyIDMuMDQ2NjlMMjguMDM4NyAxMi4xMTM0QzI4LjQzMzUgMTIuMzUwMyAyOC43NjAzIDEyLjY4NTQgMjguOTg3MiAxMy4wODYyQzI5LjIxNDEgMTMuNDg2OSAyOS4zMzMzIDEzLjkzOTUgMjkuMzMzMyAxNC40TDI4Ljk2MDIgMjEuOTE4NkMyOC43MzY4IDI2LjQxOTcgMjQuNjY2NyAyOS4zMzMzIDIwLjM0ODMgMjkuMzMzM0gyMC4wMjcyWiIgZmlsbD0iIzFDMjQzNCIvPgo8L3N2Zz4K");
+}
+.grad-4 {
+  background-image: linear-gradient(254deg,#d30c02 5%,#49df06d4);
+}
+.bg-come {
+  background: #0000006e;
+}
+.z-in-11 {
+  z-index: 11;
+}
+.centil {
+  bottom:auto;
+  top:0;
+  right:auto;
+  left:auto;
+}
+.offcanvas-start {
+  width:75% !important;
 }
