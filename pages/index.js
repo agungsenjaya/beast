@@ -24,107 +24,21 @@ Please buy BAF Token and get Magic Beasties as a reward.
 Let's travel the world of NFT together.
 
                 </p>
-                <a href="javascript:void(0)" className="btn  btn-grad-1 me-3">Trade now</a>
+                <a href="#" className="btn  btn-grad-1 me-3">Trade now</a>
                 <a href="pdf/Beasties-and-Friend.pdf" target="_blank" className="btn  btn-outline-danger">White Paper</a>
                 </div>
               </div>
               <div className="col-md-6">
-              <video width="100%" className="rounded" autoplay="true" loop="true">
+              <video width="100%" className="rounded" autoPlay loop>
                 <source src="video/bg-home.mp4" type="video/mp4"/>
                 Your browser does not support HTML video.
               </video>
-                {/* <div className="position-relative">
-                <img src="img/gif/1.png" alt="" width="100%" className="rounded-cs" />
-                <div className="to-center">
-                <img src="img/gif/2.png" alt="" width="100%" className="rounded-cs" />
-                </div>
-                <div className="to-center">
-                <img src="img/gif/3.png" alt="" width="100%" className="rounded-cs" />
-                </div>
-                <div className="to-center">
-                <img src="img/gif/4.png" alt="" width="100%" className="rounded-cs" />
-                </div>
-                <div className="to-center">
-                <img src="img/gif/5.png" alt="" width="100%" className="rounded-cs" />
-                </div>
-                <div className="to-center">
-                <img src="img/gif/6.png" alt="" width="100%" className="rounded-cs" />
-                </div>
-                <div className="to-center">
-                <img src="img/gif/7.png" alt="" width="100%" className="rounded-cs" />
-                </div>
-                <div className="to-center">
-                <img src="img/gif/8.png" alt="" width="100%" className="rounded-cs" />
-                </div>
-                </div> */}
               </div>
             </div>
 
             <section className="space-m">
               <div className="contianer">
               <h3 className="fw-bolder text-center mb-4">Roadmaps</h3>
-
-              {/* <ol className="timeline timeline-content-center timeline-point-sm" id="demo-timeline-size">
-
-              <li className="timeline-block">
-            <div className="timeline-detail"></div>
-            <div className="timeline-point">
-              <span className="bi bi-dot text-danger"></span>
-            </div>
-            <div className="timeline-content">
-              <div className="card card-body shadow">
-                <div className="d-flex justify-content-between">
-                  <div>
-                    <h4 className="card-title">Pase one</h4>
-                  </div>
-                  <div>
-                    <i className="bi bi-patch-check-fill text-success h4"></i>
-                  </div>
-                </div>
-                <p>lorem ipsum dolor sit amet, consectetur</p>
-              </div>
-            </div>
-          </li>
-              <li className="timeline-block">
-            <div className="timeline-detail"></div>
-            <div className="timeline-point">
-              <span className="bi bi-dot text-danger"></span>
-            </div>
-            <div className="timeline-content">
-              <div className="card card-body shadow">
-              <div className="d-flex justify-content-between">
-                  <div>
-                    <h4 className="card-title">Pase two</h4>
-                  </div>
-                  <div className="">
-                    <i className="bi bi-gear-fill text-secondary h4"></i>
-                  </div>
-                </div>
-                <p>lorem ipsum dolor sit amet, consectetur</p>
-              </div>
-            </div>
-          </li>
-              <li className="timeline-block">
-            <div className="timeline-detail"></div>
-            <div className="timeline-point">
-              <span className="bi bi-dot text-danger"></span>
-            </div>
-            <div className="timeline-content">
-              <div className="card card-body shadow">
-              <div className="d-flex justify-content-between">
-                  <div>
-                    <h4 className="card-title">Pase three</h4>
-                  </div>
-                  <div className="">
-                    <i className="bi bi-gear-fill text-secondary h4"></i>
-                  </div>
-                </div>
-                <p>lorem ipsum dolor sit amet, consectetur</p>
-              </div>
-            </div>
-          </li>
-              
-              </ol> */}
 
 <div className="row">
           <div className="col-md-10 offset-md-1">

@@ -23,7 +23,7 @@ export default function Nft() {
         </div>
         <div>
             <div className="form-group d-flex">
-                <input type="text" class="form-control rounded-cs" placeholder="Search name or id" />
+                <input type="text" className="form-control rounded-cs" placeholder="Search name or id" />
             </div>
         </div>
     </div>

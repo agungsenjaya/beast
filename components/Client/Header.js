@@ -35,7 +35,7 @@ export default function Header(){
             </a>
           </li>
           <li className="nav-item align-self-center ms-3">
-              <a className="btn btn-grad-1 text-white" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#comeIn">
+              <a className="btn btn-grad-1 text-white" href="#" data-bs-toggle="modal" data-bs-target="#comeIn">
                 <i className="bi bi-cloud-fog2-fill me-2"></i>
                  Connect Wallet</a>
             </li>
@@ -45,7 +45,7 @@ export default function Header(){
     <div id="int_fixed_navbar" className="int-navbar"></div>
     </div>
     </header>
-<div className="modal fade" id="comeIn" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="comeInLabel" aria-hidden="true">
+<div className="modal fade" id="comeIn" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="comeInLabel" aria-hidden="true">
   <div className="modal-dialog modal-dialog-centered">
     <div className="modal-content">
       <div className="modal-header">
