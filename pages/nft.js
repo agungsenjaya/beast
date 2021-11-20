@@ -6,7 +6,7 @@ export default function Nft() {
       <>
 
 <h4 className="fw-bolder mb-4">Market NFT</h4>
-<div className="d-none d-sm-block">
+<div className="d-none">
     <div className="d-flex justify-content-between mb-4">
         <div>
             <ul className="nav nav-nft">

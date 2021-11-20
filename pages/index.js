@@ -29,30 +29,34 @@ Let's travel the world of NFT together.
                 </div>
               </div>
               <div className="col-md-6">
-                <div className="position-relative">
+              <video width="100%" className="rounded" autoplay="true" loop="true">
+                <source src="video/bg-home.mp4" type="video/mp4"/>
+                Your browser does not support HTML video.
+              </video>
+                {/* <div className="position-relative">
                 <img src="img/gif/1.png" alt="" width="100%" className="rounded-cs" />
-                <div class="to-center">
+                <div className="to-center">
                 <img src="img/gif/2.png" alt="" width="100%" className="rounded-cs" />
                 </div>
-                <div class="to-center">
+                <div className="to-center">
                 <img src="img/gif/3.png" alt="" width="100%" className="rounded-cs" />
                 </div>
-                <div class="to-center">
+                <div className="to-center">
                 <img src="img/gif/4.png" alt="" width="100%" className="rounded-cs" />
                 </div>
-                <div class="to-center">
+                <div className="to-center">
                 <img src="img/gif/5.png" alt="" width="100%" className="rounded-cs" />
                 </div>
-                <div class="to-center">
+                <div className="to-center">
                 <img src="img/gif/6.png" alt="" width="100%" className="rounded-cs" />
                 </div>
-                <div class="to-center">
+                <div className="to-center">
                 <img src="img/gif/7.png" alt="" width="100%" className="rounded-cs" />
                 </div>
-                <div class="to-center">
+                <div className="to-center">
                 <img src="img/gif/8.png" alt="" width="100%" className="rounded-cs" />
                 </div>
-                </div>
+                </div> */}
               </div>
             </div>
 
@@ -122,61 +126,61 @@ Let's travel the world of NFT together.
               
               </ol> */}
 
-<div class="row">
-          <div class="col-md-10 offset-md-1">
-          <div class="card-deck">
-            <div class="card grad-1 border-0">
-              <div class="card-body">
-                <div class="">
-                  <div class="badge bg-warning text-wd mb-3">Roadmaps</div>
-                  <h4 class="card-title title-3 text-white">Phase 1</h4>
+<div className="row">
+          <div className="col-md-10 offset-md-1">
+          <div className="card-deck">
+            <div className="card grad-1 border-0">
+              <div className="card-body">
+                <div className="">
+                  <div className="badge bg-warning text-wd mb-3">Roadmaps</div>
+                  <h4 className="card-title title-3 text-white">Phase 1</h4>
                 </div>
-                <div class="card-text">
-                  <ul class="list-group list-group-flush list-road">
-                    <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-check text-warning me-2"></i>
-                        <div class="media-body">
+                <div className="card-text">
+                  <ul className="list-group list-group-flush list-road">
+                    <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-check text-warning me-2"></i>
+                        <div className="media-body">
                           Launch Social Media Sites (Twitter, Telegram, and More!)
                         </div>
                       </div>
                     </li>
-                    <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-check text-warning me-2"></i>
-                        <div class="media-body">
+                    <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-check text-warning me-2"></i>
+                        <div className="media-body">
                           Launch Website
                         </div>
                       </div>
                     </li>
-                    <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">
+                    <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">
                           FairLaunch
                         </div>
                       </div>
                     </li>
-                    <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">
+                    <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">
                           1.000 Member Telegram
                         </div>
                       </div>
                     </li>
-                    <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">
+                    <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">
                           $100.000 Market Caps
                         </div>
                       </div>
                     </li>
-                    <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">
+                    <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">
                           MARKETING PLAN
                         </div>
                       </div>
@@ -185,78 +189,78 @@ Let's travel the world of NFT together.
                 </div>
               </div>
             </div>
-            <div class="card grad-1 border-0">
-              <div class="card-body">
-                <div class="">
-                  <div class="badge bg-warning text-wd mb-3">Roadmaps</div>
-                  <h4 class="card-title title-3 text-white">Phase 2</h4>
+            <div className="card grad-1 border-0">
+              <div className="card-body">
+                <div className="">
+                  <div className="badge bg-warning text-wd mb-3">Roadmaps</div>
+                  <h4 className="card-title title-3 text-white">Phase 2</h4>
                 </div>
-                <div class="card-text">
-                  <ul class="list-group list-group-flush list-road">
-<li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">5.000 Member Telegram</div>
+                <div className="card-text">
+                  <ul className="list-group list-group-flush list-road">
+<li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">5.000 Member Telegram</div>
                       </div>
                     </li>
-<li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">$500.000 Market Caps</div>
+<li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">$500.000 Market Caps</div>
                       </div>
                     </li>
-<li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">BIG MARKETING PROMOTION</div>
+<li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">BIG MARKETING PROMOTION</div>
                       </div>
                     </li>
-<li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">$1.000.000 Market Caps</div>
+<li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">$1.000.000 Market Caps</div>
                       </div>
                     </li>
                   </ul>
                 </div>
               </div>
             </div>
-            <div class="card grad-1 border-0">
-              <div class="card-body">
-                <div class="">
-                  <div class="badge bg-warning text-wd mb-3">Roadmaps</div>
-                  <h4 class="card-title title-3 text-white">Phase 3</h4>
+            <div className="card grad-1 border-0">
+              <div className="card-body">
+                <div className="">
+                  <div className="badge bg-warning text-wd mb-3">Roadmaps</div>
+                  <h4 className="card-title title-3 text-white">Phase 3</h4>
                 </div>
-                <div class="card-text">
-                  <ul class="list-group list-group-flush list-road">
-                  <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">Listing CG</div>
+                <div className="card-text">
+                  <ul className="list-group list-group-flush list-road">
+                  <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">Listing CG</div>
                       </div>
                     </li>
-<li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x opacity-50 me-2"></i>
-                        <div class="media-body">Listing CMC</div>
+<li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x opacity-50 me-2"></i>
+                        <div className="media-body">Listing CMC</div>
                       </div>
                     </li>
-                    <li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x me-2 opacity-50"></i>
-                        <div class="media-body">Audit Certik</div>
+                    <li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x me-2 opacity-50"></i>
+                        <div className="media-body">Audit Certik</div>
                     </div>
                   </li>
-<li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x me-2 opacity-50"></i>
-                        <div class="media-body">Launch Apps</div>
+<li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x me-2 opacity-50"></i>
+                        <div className="media-body">Launch Apps</div>
                     </div>
                   </li>
-<li class="list-group-item">
-                      <div class="media">
-                        <i class="bi bi-x me-2 opacity-50"></i>
-                        <div class="media-body">Listing CEX</div>
+<li className="list-group-item">
+                      <div className="media">
+                        <i className="bi bi-x me-2 opacity-50"></i>
+                        <div className="media-body">Listing CEX</div>
                     </div>
                   </li>
                   </ul>
@@ -284,52 +288,52 @@ Let's travel the world of NFT together.
                 <h3 className="fw-bolder text-center mb-4">Frequently asked questions</h3>
                 <div className="row">
                   <div className="col-md-8 offset-md-2">
-                  <div class="accordion accordion-flush" id="accordionFlushExample">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-one" aria-expanded="false" aria-controls="flush-one">
+                  <div className="accordion accordion-flush" id="accordionFlushExample">
+  <div className="accordion-item">
+    <h2 className="accordion-header" id="flush-headingOne">
+      <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-one" aria-expanded="false" aria-controls="flush-one">
       What is BAF Token?
       </button>
     </h2>
-    <div id="flush-one" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">
+    <div id="flush-one" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+      <div className="accordion-body">
       BAF Token or Beasties and Friend is a community token that supports Magic Beasties in developing their projects.
 
       </div>
     </div>
   </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-two" aria-expanded="false" aria-controls="flush-two">
+  <div className="accordion-item">
+    <h2 className="accordion-header" id="flush-headingTwo">
+      <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-two" aria-expanded="false" aria-controls="flush-two">
       Where can i buy BAF Token?
       </button>
     </h2>
-    <div id="flush-two" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">
+    <div id="flush-two" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+      <div className="accordion-body">
       You can buy it on Pancakeswap with our Smart Contract on Pinned Message Group
       </div>
     </div>
   </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="three">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+  <div className="accordion-item">
+    <h2 className="accordion-header" id="three">
+      <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
       How to get the reward ?
       </button>
     </h2>
-    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">
+    <div id="flush-collapseThree" className="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#accordionFlushExample">
+      <div className="accordion-body">
       You can claim manually on Bscscan or just waiting and gifts will be automatically shipped
       </div>
     </div>
   </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="four">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefour" aria-expanded="false" aria-controls="flush-collapsefour">
+  <div className="accordion-item">
+    <h2 className="accordion-header" id="four">
+      <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefour" aria-expanded="false" aria-controls="flush-collapsefour">
       Is BAF Token safe?
       </button>
     </h2>
-    <div id="flush-collapsefour" class="accordion-collapse collapse" aria-labelledby="four" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">
+    <div id="flush-collapsefour" className="accordion-collapse collapse" aria-labelledby="four" data-bs-parent="#accordionFlushExample">
+      <div className="accordion-body">
       Of course, we lock our LP on Dxsale, so you dont have to worry about rugpull or something bad hapen
       </div>
     </div>
