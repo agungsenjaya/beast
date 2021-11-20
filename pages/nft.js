@@ -67,11 +67,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -114,11 +114,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -161,11 +161,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -208,11 +208,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -255,11 +255,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -302,11 +302,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -350,11 +350,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -397,11 +397,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -444,11 +444,11 @@ export default function Nft() {
             </div>
             <div className="card-footer d-flex justify-content-between title-2">
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                    <img src="img/usd.svg" className="me-2" />
                     xxx USD
                 </div>
                 <div className="badge bg-gray bg-transparent m-1">
-                    <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                    <img src="img/bnb.svg" className="me-2" />
                     xxx BNB
                 </div>
             </div>
@@ -493,11 +493,11 @@ export default function Nft() {
                 </div>
                 <div className="card-footer d-flex justify-content-between title-2">
                     <div className="badge bg-gray bg-transparent m-1">
-                        <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                        <img src="img/usd.svg" className="me-2" />
                         xxx USD
                     </div>
                     <div className="badge bg-gray bg-transparent m-1">
-                        <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                        <img src="img/bnb.svg" className="me-2" />
                         xxx BNB
                     </div>
                 </div>
@@ -541,11 +541,11 @@ export default function Nft() {
                 </div>
                 <div className="card-footer d-flex justify-content-between title-2">
                     <div className="badge bg-gray bg-transparent m-1">
-                        <img src="https://beasties.online/img/icon_usd_color.7bb6611b.svg" className="me-2" />
+                        <img src="img/usd.svg" className="me-2" />
                         xxx USD
                     </div>
                     <div className="badge bg-gray bg-transparent m-1">
-                        <img src="https://beasties.online/img/icon_bnb_color.56f3e09e.svg" className="me-2" />
+                        <img src="img/bnb.svg" className="me-2" />
                         xxx BNB
                     </div>
                 </div>
